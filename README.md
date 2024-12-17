@@ -52,6 +52,12 @@ Once the server is running, open your web browser and navigate to the following 
    ```bash
    http://127.0.0.1:8000/
 
+
+7. **Images**:
+
+
+
+
 7. **Output**:## Colorectal Cancer Detection Project Video
 8. ## Colorectal Cancer Detection Project Video
 
