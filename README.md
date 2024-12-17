@@ -30,10 +30,22 @@ Follow these steps to set up the project on your local machine:
    ```bash
    git clone https://github.com/SurrajKumar2000/Colorectal-Cancer-Detection-CNN-method.git
    cd Colorectal-Cancer-Detection-CNN-method
-
-
+   
 2. **Create and Activate a Virtual Environment**:
 Use Conda to create a virtual environment and activate it:
 ```bash
 conda create --name colorectal-cancer-detection python=3.8 -y
 conda activate colorectal-cancer-detection
+
+
+3. **Install Project Dependencies**
+Once the virtual environment is activated, install all the required dependencies. If you have a requirements.txt file, you can install the dependencies using the following command:
+
+pip install -r requirements.txt
+If you don't have a requirements.txt file, you can install the necessary dependencies manually. The most important dependency for this project is TensorFlow:
+
+pip install tensorflow==2.15.0
+4. Run the Server
+To start the Django development server and run the project locally, use the following command:
+
+python manage.py runserver
