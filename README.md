@@ -51,3 +51,33 @@ To start the Django development server and run the project locally, use the foll
 Once the server is running, open your web browser and navigate to the following URL to access the application:
    ```bash
    http://127.0.0.1:8000/
+
+Folder Structure
+
+Here is an overview of the project directory structure:
+
+Colorectal-Cancer-Detection-CNN-method/
+│
+├── dataset/                # Dataset folder
+├── models/                 # Pretrained and custom models
+├── static/                 # Static files (CSS, JS, Images)
+├── templates/              # HTML templates for the web UI
+├── manage.py               # Django management script
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+---
+
+### **Markdown Structure:**
+- **Introduction**: Provides a brief overview of the project.
+- **Features**: Highlights the key features of the project.
+- **Requirements**: Lists the prerequisites for running the project (Python version, TensorFlow, Conda).
+- **Installation**: Provides detailed steps on how to set up the environment, install dependencies, and run the project.
+- **Usage**: Explains how to start the server and access the application.
+- **Folder Structure**: Displays the directory organization of the project.
+- **License**: Specifies the license under which the project is shared.
+
