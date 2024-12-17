@@ -32,7 +32,7 @@ Follow these steps to set up the project on your local machine:
    cd Colorectal-Cancer-Detection-CNN-method
 
 
-### 2. Create and Activate a Virtual Environment
+2. **Create and Activate a Virtual Environment**:
 Use Conda to create a virtual environment and activate it:
 ```bash
 conda create --name colorectal-cancer-detection python=3.8 -y
