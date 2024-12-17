@@ -68,11 +68,8 @@ Colorectal-Cancer-Detection-CNN-method/
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
----
-
-### **Markdown Structure:**
+```
+ **Markdown Structure:**
 - **Introduction**: Provides a brief overview of the project.
 - **Features**: Highlights the key features of the project.
 - **Requirements**: Lists the prerequisites for running the project (Python version, TensorFlow, Conda).
