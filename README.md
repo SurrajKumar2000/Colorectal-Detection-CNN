@@ -11,6 +11,10 @@
 ## Introduction
 This project leverages Convolutional Neural Networks (CNN) to detect colorectal cancer using medical image datasets. The application uses TensorFlow for model training and Django for building a web-based interface for prediction.
 
+<img width="1681" alt="Screenshot 2024-12-12 at 10 13 39 AM" src="https://github.com/user-attachments/assets/aed812af-a436-4dda-b081-685e5378e3d9" />
+
+
+
 ## Features
 - Image upload for cancer prediction.
 - Web-based UI for model interaction.
@@ -51,15 +55,8 @@ To start the Django development server and run the project locally, use the foll
 Once the server is running, open your web browser and navigate to the following URL to access the application:
    ```bash
    http://127.0.0.1:8000/
-
-
-7. **Images**:
-
-
-
-
-7. **Output**:## Colorectal Cancer Detection Project Video
-8. ## Colorectal Cancer Detection Project Video
+   
+7. ## Colorectal Cancer Detection Project Video
 
 You can watch the video demonstration of this project by clicking the link below:
 ## Colorectal Cancer Detection Project Video
