@@ -46,3 +46,8 @@ Once the virtual environment is activated, install all the required dependencies
 To start the Django development server and run the project locally, use the following command:
    ```bash
    python manage.py runserver
+
+6. **Access the Application**:
+Once the server is running, open your web browser and navigate to the following URL to access the application:
+   ```bash
+   http://127.0.0.1:8000/
