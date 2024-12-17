@@ -52,19 +52,3 @@ Once the server is running, open your web browser and navigate to the following 
    ```bash
    http://127.0.0.1:8000/
 
-Folder Structure
-
-Here is an overview of the project directory structure:
-
-Colorectal-Cancer-Detection-CNN-method/
-│
-├── dataset/                # Dataset folder
-├── models/                 # Pretrained and custom models
-├── static/                 # Static files (CSS, JS, Images)
-├── templates/              # HTML templates for the web UI
-├── manage.py               # Django management script
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
-License
-- **License**: Specifies the license under which the project is shared.
-
